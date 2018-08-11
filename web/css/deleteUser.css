@@ -1,0 +1,96 @@
+*{
+    font-family: "Comic Sans MS";
+}
+
+.menu{
+    margin-top: -8px;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #5f5f5f;
+}
+
+.menu li a:hover:not(.active) {
+    background-color: #111;
+}
+
+#deleteMenu{
+    background-color: #4CAF50;
+}
+
+#user-name-label{
+    padding-right: 10px;
+    font-family: "Segoe UI",Arial,sans-serif;
+}
+
+#home-label{
+    color: dodgerblue;
+    font-family: "Segoe UI",Arial,sans-serif;
+}
+
+header{
+    /*background-color: #333;*/
+    margin-top: -12px;
+    display: flex;
+    flex-wrap: wrap;
+    /*color: white;*/
+}
+
+#selectEntry{
+    font-size: 25px;
+}
+
+.container {
+    padding: 16px;
+    background-color: white;
+}
+
+.container label{
+    float: left;
+}
+
+.container h2{
+    background-color: dodgerblue;
+}
+
+.logout{
+    border-left:1px solid #bbb;
+    float: right;
+}
+
+li {
+    font-family: "Comic Sans MS";
+    border-right:1px solid #bbb;
+    float: left;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+button{
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+
+button:hover {
+    opacity: 2;
+}
+
+hr {
+    border: 1px solid #c6c6c7;
+    margin-bottom: 25px;
+}
