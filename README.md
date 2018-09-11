@@ -14,7 +14,9 @@ Download and intall Ultimate edition.
 ## Procedure
 
 Clone git repo in local file system.
+
 Open the project in IntelliJ IDEA Ultimate.
+
 Edit configuration for Application Server to the extracted Apache Tomcat Server directory.
 
 There are some changes required to perform in some java code:
