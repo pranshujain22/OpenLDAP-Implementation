@@ -21,4 +21,4 @@ There are some changes required to perform in some java code:
   - AuthenticateUser.java
   - LDAPSearch.java
 
-Replace the occurance of _jarvis_ in **"dc=jarvis,dc=com"** to the domain name without the _.com_ in each of the above .java files..
+Replace the occurance of **_jarvis_** in **"dc=jarvis,dc=com"** to the domain name without the **_.com_** in each of the above .java files..
