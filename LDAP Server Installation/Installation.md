@@ -37,3 +37,6 @@ $ ldapwhoami -H ldap:// -x
 Output
 anonymous
 ```
+### References
+
+1. [Configure OpenLDAP](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-openldap-and-phpldapadmin-on-ubuntu-16-04).
