@@ -8,7 +8,7 @@ $ sudo dpkg-reconfigure slapd
 
 - DNS domain name?
   - This option will determine the base structure of your directory path. Read the message to understand exactly how this will be implemented. You can actually select whatever value you'd like, even if you don't own the actual domain.
-  > e.g. example.com
+    > e.g. example.com
 
 - Organization name?
   - You may choose anything as the name of our organization.
