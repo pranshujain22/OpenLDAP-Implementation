@@ -24,13 +24,13 @@ $ sudo dpkg-reconfigure slapd
 At this point, your LDAP server is configured and running. Open up the LDAP port on your firewall so external clients can connect:
 
 ```
-sudo ufw allow ldap
+$ sudo ufw allow ldap
 ```
 
 Let's test our LDAP connection with ldapwhoami, which should return the username we're connected as:
 
 ```
-ldapwhoami -H ldap:// -x
+$ ldapwhoami -H ldap:// -x
 ```
 
 ```
