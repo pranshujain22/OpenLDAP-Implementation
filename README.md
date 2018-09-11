@@ -28,5 +28,5 @@ Now the code is ready to run!
 Run the project and you will be redirected to the Login page in the default browser.
 
 ### References
-Configure OpenLDAP
+
 [1]: https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-openldap-and-phpldapadmin-on-ubuntu-16-04 "Configure OpenLDAP"
