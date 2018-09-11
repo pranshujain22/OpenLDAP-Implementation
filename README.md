@@ -23,6 +23,10 @@ There are some changes required to perform in some java code:
 
 Replace the occurance of **_jarvis_** in **"dc=jarvis,dc=com"** to the domain name without the **_.com_** in each of the above .java files..
 
-Now the code is ready to run.
+Now the code is ready to run!
 
 Run the project and you will be redirected to the Login page in the default browser.
+
+### References
+
+[1]: https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-openldap-and-phpldapadmin-on-ubuntu-16-04 "Configure OpenLDAP"
