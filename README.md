@@ -3,7 +3,7 @@ This project implements basic operations using OpenLDAP over the Web UI using JS
 
 ## Prerequisites
 
-1. [LDAP Server](Installation/Installation.md)
+1. [LDAP Server](LDAP Server Installation/Installation.md)
 
 2. [Apache Tomcat](http://mirrors.wuchna.com/apachemirror/tomcat/tomcat-9/v9.0.11/bin/apache-tomcat-9.0.11.tar.gz)
 Download and extract tomcat in local file system.
