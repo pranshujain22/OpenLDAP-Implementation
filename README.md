@@ -27,6 +27,4 @@ Replace the occurance of **_jarvis_** in **"dc=jarvis,dc=com"** to the domain na
 
 Now the code is ready to run!
 
-Run the project and you will be redirected to the Login page in the default browser.
-
-Login with the credentials updated during the OpenLDAP setup.
+Run the project and you will be redirected to the Login page in the default browser. Login with the credentials updated during the OpenLDAP setup.
