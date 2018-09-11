@@ -29,4 +29,5 @@ Now the code is ready to run!
 
 Run the project and you will be redirected to the Login page in the default browser. Login with the following credentials for Admin:
 > Entry DN: cn=admin,dc=<domain>,dc=com
+
 > Password: created during the OpenLDAP setup.
